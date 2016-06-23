@@ -2772,7 +2772,7 @@ box-shadow:none;
 	height:150px;
 	border:1px solid #000;
 	border-radius: 50%;
-	background: red;
+	/*background: red;*/
 	overflow:hidden;
 	text-align: center;
 	position: relative;
