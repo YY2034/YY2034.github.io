@@ -2774,10 +2774,8 @@ box-shadow:none;
 	border-radius: 50%;
 	background: red;
 	overflow:hidden;
-}
-
-.img-item img{
 	text-align: center;
+	line-height: 150px;
 }
 
 .text-item i{
@@ -3149,6 +3147,11 @@ margin-bottom: -3px;
 	.img-item{
 		width:100px;
 		height: 100px;
+		text-align: center;
+	}
+	.img-item img{
+		width:100px;
+		height:100px;
 	}
 
 	.text-item i{
@@ -3173,6 +3176,13 @@ margin-bottom: -3px;
 	}
 
 	.img-item{
+		width:80px;
+		height:80px;
+		text-align: center;
+		line-height: 80px;
+	}
+
+	.img-item img{
 		width:80px;
 		height:80px;
 	}
