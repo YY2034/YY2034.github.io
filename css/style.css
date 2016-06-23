@@ -2773,7 +2773,11 @@ box-shadow:none;
 	border:1px solid #000;
 	border-radius: 50%;
 	background: red;
-	overflow:hidden; 
+	overflow:hidden;
+}
+
+.img-item img{
+	text-align: center;
 }
 
 .text-item i{
