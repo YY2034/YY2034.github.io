@@ -2773,6 +2773,7 @@ box-shadow:none;
 	border:1px solid #000;
 	border-radius: 50%;
 	background: red;
+	overflow:hidden; 
 }
 
 .text-item i{
