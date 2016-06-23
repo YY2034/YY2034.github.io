@@ -2775,16 +2775,16 @@ box-shadow:none;
 	/*background: red;*/
 	overflow:hidden;
 	text-align: center;
-	/*position: relative;*/
+	position: relative;
 	/*line-height: 75px;*/
 }
 
-.img-item{
+.img-item img{
 	width:100%;
 	height:100%;
-	/*position: absolute;
+	position: absolute;
 	left:0;
-	top:0;*/
+	top:0;
 }
 
 .text-item i{
