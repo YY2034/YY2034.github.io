@@ -3147,7 +3147,7 @@ margin-bottom: -3px;
 	.img-item{
 		width:100px;
 		height: 100px;
-		text-align: center;
+		/*text-align: center;*/
 		/*line-height: 50px;*/
 	}
 	.img-item img{
@@ -3180,7 +3180,7 @@ margin-bottom: -3px;
 		.img-item{
 			width:80px;
 			height:80px;
-			text-align: center;
+			/*text-align: center;*/
 			/*line-height: 40px;*/
 		}
 	}
